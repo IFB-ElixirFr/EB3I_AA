@@ -62,7 +62,17 @@ Suivez les actualités de l’école : 🔗 [LinkedIn](https://www.linkedin.com/
 ---
 
 ### 📂 Contenu du dépôt  
-Ce dépôt contient :  
-- Les supports de cours et présentations.  
-- Les jeux de données utilisés durant la formation.  
-- Les tutoriels et documents pratiques pour les ateliers Galaxy.  
+Ce dépôt contient le **matériel pédagogique en cours de développement** pour l’école *Assemblage et Annotation (AA)*.  
+Les contenus peuvent encore évoluer avant leur utilisation en formation.  
+
+Vous y trouverez :  
+- Les **supports de cours** et **présentations** en préparation.  
+- Les **jeux de données** utilisés dans les ateliers.  
+- Les **tutoriels Galaxy** et documents pratiques associés.  
+
+---
+
+### 🔗 Liens vers les versions utilisées des cours  
+Les supports validés et finalisés pour chaque édition de l’école sont publiés dans le dépôt officiel suivant :  
+[**Cours utilisées – Assemblage et Annotation (AA) 2024**](https://moodle.france-bioinformatique.fr/course/view.php?id=24)
+
